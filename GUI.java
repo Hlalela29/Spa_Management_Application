@@ -1,6 +1,0 @@
-static class ang.Object
-{
-
-}
-
-
